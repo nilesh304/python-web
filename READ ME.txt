@@ -1,0 +1,12 @@
+*********************************READ ME******************************************
+
+1. INSTALL SELENIUM 
+2. INSTALL NLTK
+3. DOWNLOAD DATASET BY ENTERING nltk.download()
+4. RUN THE delta.py FILE
+5. ENTER NEWS TO BE TESTED
+
+
+
+PROJECT BY NILESH MATAI - RA1611003010304
+	   PRANAV BHARTI - RA1611003010928
